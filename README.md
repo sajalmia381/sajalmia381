@@ -1,14 +1,5 @@
 ## I'm [Md Sajal Mia!](https://techincent.com/author/sajalmia/) 👋
 
-<a href="https://www.linkedin.com/in/sajalmia381">
-  <img align="left" alt="Hardik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/sajalmia381">
-  <img align="left" alt="Hardik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-<br/>
-
 - 🔭 I’m currently working as Angular Developer at [KloverCloud](https://klovercloud.com/)
 - 👯 I’m looking to collaborate on [Blog](https://www.techincent.com)
 - 💬 Ask me about angular or any tech related stuff.
