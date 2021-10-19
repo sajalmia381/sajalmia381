@@ -12,7 +12,7 @@
 - 🔭 I’m currently working as Angular Developer at [KloverCloud](https://klovercloud.com/)
 - 👯 I’m looking to collaborate on [Blog](https://www.techincent.com)
 - 💬 Ask me about angular or any tech related stuff.
-- 📫 How to reach me: [Linkdin - sajalmia381](https://www.linkedin.com/in/sajalmia381/)
+- 📫 How to reach me: [Click here](https://www.linkedin.com/in/sajalmia381/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Dolphins literally sleep with one eye open.
 
