@@ -17,5 +17,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Dolphins literally sleep with one eye open.
 
-[![Linkedin: sajalmia381](https://www.linkedin.com/in/sajalmia381/)
 [![website: Blog](https://img.shields.io/twitter/url?label=sajalmia381&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsajalmia381%2F)](https://www.techincent.com)
+[![facebook: sajalmia](https://img.shields.io/twitter/url?label=sajalmia381&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fsajalmia381)](https://www.techincent.com)
