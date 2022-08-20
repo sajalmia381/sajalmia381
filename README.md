@@ -1,11 +1,7 @@
-## I'm [Md Sajal Mia!](https://techincent.com/author/sajalmia/) 👋
+### Hi there 👋
 
-- 🔭 I’m currently working as Software Engineer at [KloverCloud](https://klovercloud.com/)
-- 👯 I’m looking to collaborate on [Blog](https://www.techincent.com)
-- 💬 Ask me about angular or any tech related stuff.
-- 📫 How to reach me: [Click here](https://www.linkedin.com/in/sajalmia381/)
-- ⚡ Fun fact: Dolphins literally sleep with one eye open.
+I'm Md Sajal Mia, currently working as a Software Engineer at Klovercloud. We're developing a PaaS.
 
-[![website: Blog](https://img.shields.io/twitter/url?label=sajalmia381&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsajalmia381%2F)](https://www.linkedin.com/in/sajalmia381/)
-[![facebook: sajalmia](https://img.shields.io/twitter/url?label=sajalmia381&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fsajalmia381)](https://www.facebook.com/sajalmia381)
-[[Blog: Techincent]](https://techincent.com/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?style=for-the-badge&color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sajalmia381)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?style=for-the-badge&color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sajalmia381)
+[![Blog Follow](https://img.shields.io/badge/BLOG-Follow-orange?style=for-the-badge&color=212121)](https://techincent.com)
