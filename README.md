@@ -9,9 +9,9 @@ I always try to think out of box, I have created couple of service using express
 JavaScript, TypeScript, Angular, NGRX, RxJs, Json, Angular Project Architecture, NX(micro-frontend), Node, Express, Docker
 ```
 
-### Core Libs:
+### Core Libraries:
  ```
- Angular Material, Tailwindcss, Bootstrap
+ Angular, Angular Material, Tailwindcss, Bootstrap, Express
  ```
 
 ### Programming Language:
