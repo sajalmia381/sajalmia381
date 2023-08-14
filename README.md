@@ -1,6 +1,5 @@
 ## Hi There 👋
 
-Hello there, 
 I'm Sajal professional Software Engineer. I have a proven track record of developing and maintaining complex web applications using Angular. My experience includes working with Angular 7, 8, and 9 To 15 versions. I have experience in creating reusable components, implementing dynamic forms, creating responsive designs, and optimizing the application's performance.
 
 I always try to think out of box, I have created couple of service using express, and echo
