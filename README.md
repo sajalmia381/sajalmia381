@@ -51,6 +51,7 @@ February 2018 - March 2019
   - Develop Themeforest-based Cloud, eCommerce, Law Firm, Corporate, Affiliate Marketing, and Blog templates.
 
 ### Connect With Me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?style=for-the-badge&color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sajalmia381)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?style=for-the-badge&color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sajalmia381)
-[![Blog Follow](https://img.shields.io/badge/BLOG-Follow-orange?style=for-the-badge&color=212121)](https://techincent.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sajalmia381)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajalmia381)
+[![Blog](https://img.shields.io/badge/BLOG-Follow-ec407a?style=for-the-badge&color=212121)](https://techincent.com)
+[![Contact Badge](https://img.shields.io/badge/website-3ea982?style=for-the-badge&logo=About.me&logoColor=white)](https://sajalmia381.github.io)
