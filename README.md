@@ -2,11 +2,11 @@
 
 I'm Sajal professional Software Engineer. I have a proven track record of developing and maintaining complex web applications using Angular. My experience includes working with Angular 7, 8, and 9 To 15 versions. I have experience in creating reusable components, implementing dynamic forms, creating responsive designs, and optimizing the application's performance.
 
-I always try to think out of box, I have created couple of service using express, and echo
+I always try to think outside of box, I have created a couple of services using express, and echo
 
 ### Skills:
 ```
-JavaScript, TypeScript, Angular, NGRX, RxJs, Json, Angular Project Architecture, NX(micro-frontend), Node, Express, Docker
+JavaScript, TypeScript, Angular, NGRX, RxJs, JSON, Angular Project Architecture, NX(micro-frontend), Node, Express, Docker
 ```
 
 ### Core Libraries:
@@ -19,11 +19,11 @@ JavaScript, TypeScript, Angular, NGRX, RxJs, Json, Angular Project Architecture,
 TypeScript, Go
 ```
 
-### Working Experences:
+### Working Experiences:
 
 #### Klover Cloud | Senior Software Engineer | Angular
 
-Februry 2022 - Present
+February 2022 - Present
   - Angular project architecture
   - Implement JWT, SSO authentication
   - Design and develop role base permission
@@ -48,7 +48,7 @@ March 2023 - July 2019
 #### WD IT Solution(ThemeIM) | Frontend Developer
 
 February 2018 - March 2019
-  - Develop Themeforest based Cloud, eCommerce, Law Firm, Corporate, Affiliate Marketing, Blog templates.
+  - Develop Themeforest-based Cloud, eCommerce, Law Firm, Corporate, Affiliate Marketing, and Blog templates.
 
 ### Connect With Me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?style=for-the-badge&color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sajalmia381)
