@@ -1,8 +1,8 @@
 ## Hi There 👋
 
-I'm Sajal professional Software Engineer. I have a proven track record of developing and maintaining complex web applications using Angular. My experience includes working with Angular 7, 8, and 9 To 15 versions. I have experience in creating reusable components, implementing dynamic forms, creating responsive designs, and optimizing the application's performance.
+This is Sajal Mia professional Software Engineer. I have a proven track record of developing and maintaining complex web applications using Angular. My experience includes working with Angular 7, 8, and 9 To 17 versions. I have experience in creating reusable components, implementing dynamic forms, creating responsive designs, and optimizing the application's performance.
 
-I always try to think outside of box, I have created a couple of services using express, and echo
+I always try to think outside of the box, I have created a couple of services using express, and echo
 
 ### Skills:
 ```
@@ -23,27 +23,26 @@ TypeScript, Go
 
 #### Klover Cloud | Senior Software Engineer | Angular
 
-February 2022 - Present
-  - Angular project architecture
-  - Implement JWT, SSO authentication
-  - Design and develop role base permission
-  - Implement Web socket base component
-  - Implement angular role base guards(CanActivate, CanDeactive, Resolve)
-  - Implement custom pipes, directives, validators
-  - Design and develop custom library components
-  - Create Reusable Component
-  - Design Dark and Light theme
-  - Optimize and improve application performance
-  - Update angular version
-  - Manage and maintain angular project
-  - Dockerize angular application, deployment in Kubernetes cluster
+Senior Software Engineer | Angular | Docker | Micro Frontend	
+
+January 2022 - Current
+  - Update angular versions, Refactoring and optimizing components to improve application performance, and load time.
+  - Continuous Integration/Deployment on k8s cluster, dockerize node application, pull requests, code reviews, performance/load testing.
+  - Led development of multiple enterprise-level microservices webapp applications of SAAS products using the technologies of Angular, Javascript, Typescript, and Node. Guide other frontend engineers.
+  - Design and develop role-based permission, Implement role base guards, JWT and SSO authentication, application central interceptor, WebSocket base component, multi-colors(light, dark, more) theme on the angular project.
+  - Architecture angular base project and feature module. Develop klovercloud own CDK component base library.
+
+Software Engineer | Angular
+
+February 2021 - December 2021
+  - Develop Kubernetes dashboard lighthouse, admin dashboard, and cost management webapp projects using angular.
+  - Implement KloverCloud console webapp features(queue, namespace/vpc, K8s, ticket)
 
 #### MovIT | Senior Angular Engineer | Remote | contractual | Angular | Micro-frontend
 
 March 2023 - July 2019
-  - Micro-Frontend using Nx
-  - Project and feature module Architchitect
-  - Implement and publish angular base components NPM  libraries
+  - Angular project and module architecture, Implement micro angular projects using Nx. Those projects are part of the micro-frontend.
+  - Implement angular base movit CDK package and publish in NPM private library. So that package component can be us for multiple angular project.
 
 #### WD IT Solution(ThemeIM) | Frontend Developer
 
