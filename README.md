@@ -25,7 +25,7 @@ TypeScript, Go
 
 Senior Software Engineer | Angular | Docker | Micro Frontend	
 
-January 2022 - Current
+>  January 2022 - Current
   - Update angular versions, Refactoring and optimizing components to improve application performance, and load time.
   - Continuous Integration/Deployment on k8s cluster, dockerize node application, pull requests, code reviews, performance/load testing.
   - Led development of multiple enterprise-level microservices webapp applications of SAAS products using the technologies of Angular, Javascript, Typescript, and Node. Guide other frontend engineers.
@@ -34,19 +34,19 @@ January 2022 - Current
 
 Software Engineer | Angular
 
-February 2021 - December 2021
+> February 2021 - December 2021
   - Develop Kubernetes dashboard lighthouse, admin dashboard, and cost management webapp projects using angular.
   - Implement KloverCloud console webapp features(queue, namespace/vpc, K8s, ticket)
 
 #### MovIT | Senior Angular Engineer | Remote | contractual | Angular | Micro-frontend
 
-March 2023 - July 2019
+> March 2023 - July 2019
   - Angular project and module architecture, Implement micro angular projects using Nx. Those projects are part of the micro-frontend.
   - Implement angular base movit CDK package and publish in NPM private library. So that package component can be us for multiple angular project.
 
 #### WD IT Solution(ThemeIM) | Frontend Developer
 
-February 2018 - March 2019
+> February 2018 - March 2019
   - Develop Themeforest-based Cloud, eCommerce, Law Firm, Corporate, Affiliate Marketing, and Blog templates.
 
 ### Connect With Me:
