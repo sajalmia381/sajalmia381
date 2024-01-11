@@ -40,9 +40,16 @@ Software Engineer | Angular
 
 #### MovIT | Senior Angular Engineer | Remote | contractual | Angular | Micro-frontend
 
-> March 2023 - July 2019
+> March 2023 - July 2023
   - Angular project and module architecture, Implement micro angular projects using Nx. Those projects are part of the micro-frontend.
-  - Implement angular base movit CDK package and publish in NPM private library. So that package component can be us for multiple angular project.
+  - Implement angular base movit CDK package and publish in NPM private library. So that package component can be us for multiple angular projects.
+
+#### Tech Incent | Owner | Tech Blog Writer | Open Source | Npm Package
+
+> May 2019 - Current
+  - Write to share web development-related tutorials, problem-solving, and code snippets blog posts.
+  - Create angular base open source npm package and release on public use GitHub CICD.
+  - Created open source prototype API storerestapi using node, express, angular, and mongo. And that services are hosted on AWS EC2 instance using docker, docker-compose, and GitHub CICD. This prototype API serves thousands of developers in a month to create their prototype application with just real API data.
 
 #### WD IT Solution(ThemeIM) | Frontend Developer
 
